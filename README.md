@@ -31,7 +31,7 @@ The system is defined over the hyperreal numbers $*\mathbb{R}$, encompassing fin
    The mapping preserves directional behavior: as $\tau_x$ transitions from positive to negative through infinitesimals around zero, $x = \frac{1}{\tau_x}$ moves from positive infinity to negative infinity, and similarly for $\tau_y$ and $y$.
 
 8. **Configuration Space for Multiple Points**  
-   For systems of $n$ points with masses $m_1, \dots, m_n$ and positions $\mathbf{r}_1, \dots, \mathbf{r}_n \in \mathbb{R}^d$, fix the center of mass at the origin: $\sum_{i=1}^n m_i \mathbf{r}_i = 0$.
+   For systems of $n$ points with masses $m_1, \dots, m_n$ and positions ${r}_1, \dots, \mathbf{r}_n \in \mathbb{R}^d$, fix the center of mass at the origin: $\sum_{i=1}^n m_i \mathbf{r}_i = 0$.
 
 9. **Scale Factor**  
    Define the scale factor $s = \sqrt{\frac{\sum_{i=1}^n m_i |\mathbf{r}_i|^2}{M}}$, where $M = \sum_{i=1}^n m_i$, representing the overall size of the configuration.
