@@ -1,8 +1,10 @@
-A Geometric System with Infinity at the Origin
-Abstract
+# A Geometric System with Infinity at the Origin
+
+## Abstract
 This article presents a geometric framework where infinity resides at the origin, an infinitesimal scale defines the system's boundary, and zero is explicitly excluded. Designed for robustness and practical utility, this system reimagines the Cartesian plane and extends to configuration spaces for multi-point systems, integrating scale-shape decomposition and time transformations to facilitate advanced mathematical analysis and computational efficiency. We establish a unified axiomatic foundation that seamlessly connects individual points, configurations, and dynamic behaviors, deriving key properties and demonstrating applications in asymptotic analysis, numerical computation, differential equations, and multi-body dynamics. This transformative tool offers new perspectives for mathematicians and scientists across diverse fields.
-Introduction
-Traditional geometry positions zero at the origin and extends outward to infinity, a setup that often complicates analyses at extreme scales—whether approaching infinity or zero. Limits grow unwieldy, unbounded domains challenge numerical methods, and singularities disrupt continuity. Here, we propose an alternative: a plane where infinity anchors the origin, an infinitesimal boundary encircles the system, and zero is absent. For systems of multiple points, we incorporate a scale-shape decomposition to separate overall size from relative configuration and introduce flexible scale mappings and time transformations to simplify dynamics at extreme scales. This unified framework promises theoretical elegance and practical advantages, streamlining computations and illuminating behaviors across scales. Built on a rigorous axiomatic base, this system is both unassailable and versatile, with applications spanning pure mathematics, physics, and computational science.
+
+## Introduction
+Traditional geometry positions zero at the origin and extends outward to infinity, a setup that often complicates analyses at extreme scales—whether approaching infinity or zero. Limits grow unwieldy, unbounded domains challenge numerical methods, and singularities disrupt continuity. Here, we propose an alternative: a plane where infinity anchors the origin, an infinitesimal boundary encircles the system, and zero is absent. For systems of multiple points, we incorporate a scale-shape decomposition to separate overall size from relative configuration and introduce flexible scale mappings and time transformations to simplify dynamics at mathematics, physics, and computational science.
 Axiomatic Foundation
 The system is defined over the hyperreal numbers 
 *\mathbb{R}
