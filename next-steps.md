@@ -1,5 +1,3 @@
----
-
 # **Research Next Steps: Advancing the Geometric Framework with Infinity at the Origin**
 
 ## **Abstract**
