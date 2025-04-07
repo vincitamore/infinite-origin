@@ -64,7 +64,7 @@ The system is grounded in the hyperreal numbers $*\mathbb{R}$, which include fin
     As $\sigma \to \infty$, the system expands infinitely; as $\sigma \to -\infty$, it collapses, with $\theta$ preserving shape.
 
 15. **Interaction with $\tau$-Mappings**  
-    Each $\mathbf{r}_i$ maps to $\boldsymbol{\tau}_i = \left( \frac{1}{r_{i1}}, \dots, \frac{1}{r_{id}} \right)$, linking local and global coordinates.
+    Each $ \mathbf{r}_i $ maps to $\boldsymbol{\tau}_i = \left( \frac{1}{r_{i1}}, \dots, \frac{1}{r_{id}} \right)$, linking local and global coordinates.
 
 ### Axioms for Dynamics
 16. **Flexible Time Transformation**  
