@@ -1,4 +1,4 @@
-# A Geometric System with Infinity at the Origin: A Hyperreal Framework for Scale and Dynamics
+ # A Geometric System with Infinity at the Origin: A Hyperreal Framework for Scale and Dynamics
 
 ## Abstract
 This article presents a geometric framework where infinity resides at the origin, an infinitesimal scale defines the boundary, and zero is excluded. Built on hyperreal numbers, denoted $*\mathbb{R}$, the system reimagines the traditional plane and extends to configuration spaces for multi-point systems with generalized properties. It employs scale-shape decomposition, flexible time transformations, and support for curved spaces to unify individual points, configurations, and dynamics. Enhanced with a quantum adaptation, the framework integrates quantum states, operators, and time transformations to optimize quantum computing algorithms. Key properties—such as spatial compactification, metric inversion, and asymptotic duality—enable applications in asymptotic analysis, numerical computation, differential equations, multi-body dynamics, gravitational systems, numerical simulation, economic modeling, and quantum computing. This versatile system empowers mathematicians and scientists to explore phenomena across vast, minute, and quantum scales with precision and clarity.
@@ -64,7 +64,7 @@ The system is grounded in the hyperreal numbers $*\mathbb{R}$, which include fin
     As $\sigma \to \infty$, the system expands infinitely; as $\sigma \to -\infty$, it collapses, with $\theta$ preserving shape.
 
 15. **Interaction with $\tau$-Mappings**  
-    Each $ \mathbf{r}_i $ maps to $\boldsymbol{\tau}_i = \left( \frac{1}{r_{i1}}, \dots, \frac{1}{r_{id}} \right)$, linking local and global coordinates.
+    Each $ \mathbf{r}_i $ maps to $ \boldsymbol{\tau}_i = \left( \frac{1}{r_{i1}}, \dots, \frac{1}{r_{id}} \right) $, linking local and global coordinates.
 
 ### Axioms for Dynamics
 16. **Flexible Time Transformation**  
